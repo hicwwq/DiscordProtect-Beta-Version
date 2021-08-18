@@ -1,0 +1,18 @@
+{
+    "token": "ODA1OTAwNTgwMzU0NjU0MjU5.Y",
+    "tokenBOT1": "ODcyNjY3ODEzODQ",
+    "tokenBOT2": "ODcyNjY4MzE3MTI1vI8",
+    "tokenBOT3": "ODcyOTnJ6nYQUV9S3Nyc",
+    "tokenBOT4": "NzYxOTE1MT1o5DLkt4",
+    "owner": [
+ "689262507533140040",
+ "782713986646409226"
+    ],
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "database": "protect"
+    },
+        "guild": ""
+    
+}
