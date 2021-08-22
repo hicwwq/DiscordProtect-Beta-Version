@@ -17,6 +17,8 @@
 
 
 ## Installation
+**Don't Forget To upload database(database/protect.sql)**
+
 **Modules:** 
 
 ```bash
