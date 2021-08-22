@@ -61,5 +61,9 @@ node mini_protect.js
 ```
 
 ## Support
+
 **Discord: vice#3600**
 
+ ## Credits
+ 
+[Apo](https://github.com/Apophisqlf?) - [hicwwq](https://github.com/hicwwq)
