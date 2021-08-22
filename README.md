@@ -21,6 +21,14 @@
 
 **Modules:** 
 
+
+**Method 1:**
+
+You need just to transform node_module.rar to folder
+
+**Method 2:**
+
+
 ```bash
 npm i mysql2 discord.js colors axios figlet readline fs request@2.88.2
 ```
